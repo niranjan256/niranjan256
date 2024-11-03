@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niranjan256
-- 👀 I’m interested in data analytics, machine learning, and web development.
-- 🌱 I’m currently learning Python and its advanced concepts, including inner workings, background processes, and error handling.
-- 💞️ I’m looking to collaborate on projects related to data science, machine learning, and web development.
+- 👀 I’m interested in data analytics, machine learning, web development, and ethical hacking.
+- 🌱 I’m currently learning Python, SQL, data visualization tools (like Power BI and Tableau), and exploring cybersecurity concepts.
+- 💞️ I’m looking to collaborate on projects related to data science, machine learning, web development, and security analysis.
 - 📫 How to reach me: [niranjanavulapati4@gmail.com](mailto:niranjanavulapati4@gmail.com)
 
 <!---
